@@ -1,0 +1,14 @@
+PyQt6
+mediapipe==0.10.5
+opencv-python
+opencv-contrib-python
+numpy
+scipy
+matplotlib
+pandas
+pyzmq
+cvzone
+seaborn
+flask
+gevent
+python-osc

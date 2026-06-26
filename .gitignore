@@ -1,0 +1,11 @@
+.idea/
+*.pyc
+__pycache__/
+.venv/
+.claude/
+logs/
+kpts_3d.dat
+.agents/
+unity_agent/
+improved_movement_agent/
+.DS_Store
