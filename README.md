@@ -4,7 +4,7 @@
 
 A real-time movement improvisation system in which a humanoid avatar mirrors, contrasts, or responds to a user's body movements via webcam. The system implements a structured mode-switching algorithm grounded in improvisation theory, evaluated in a within-subjects user study as part of a Bachelor's thesis at Vrije Universiteit Amsterdam.
 
-Built on top of [Constructing a Movement Improvisational Agent](https://github.com/zjgb/Movement-Agent) by Zoja Gobec (VU Amsterdam, 2025).
+Built on top of [Movement Improvisational Agent](https://github.com/zjgb/Movement-Agent) by Zoja Gobec (VU Amsterdam, 2025).
 
 The Unity scene is maintained in a separate repository due to its size: [interactive-movement-agent-unity](https://github.com/letix1/interactive-movement-agent-unity)
 
