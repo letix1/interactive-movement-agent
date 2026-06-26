@@ -6,7 +6,7 @@ A real-time movement improvisation system in which a humanoid avatar mirrors, co
 
 Built on top of [Movement Improvisational Agent](https://github.com/zjgb/Movement-Agent) by Zoja Gobec (VU Amsterdam, 2025).
 
-The Unity scene is maintained in a separate repository due to its size: [interactive-movement-agent-unity](https://github.com/letix1/interactive-movement-agent-unity)
+The Unity scene is maintained in a separate repository due to its size: [unity-agent](https://github.com/letix1/unity-agent)
 
 ---
 
